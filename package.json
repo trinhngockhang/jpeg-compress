@@ -9,6 +9,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "jimp": "^0.8.5"
+    "dct": "^0.1.0",
+    "jimp": "^0.8.5",
+    "shelljs": "^0.8.3"
   }
 }
